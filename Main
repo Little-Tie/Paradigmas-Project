@@ -1,0 +1,25 @@
+#include "stdafx.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int cadastrodisciplinas() //Funcao para cadastrar disciplinas em um arquivo;
+{
+	printf("Digite o nome da disciplina que pretende cadastrar: ");
+}
+
+int main()
+{
+	
+    return 0;
+}
+
+/*FILE *alunos;
+FILE *professores;
+FILE *disciplinas;
+alunos = fopen("alunos.txt", "w+");
+professores = fopen("professores.txt", "w+");
+disciplinas = fopen("disciplinas.txt", "w+");
+fclose(alunos);
+fclose(professores);
+fclose(disciplinas);*/
