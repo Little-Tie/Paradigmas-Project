@@ -3,10 +3,10 @@
 #include <stdlib.h>
 #include <string.h>
 
-int cadastrodisciplinas() //Funcao para cadastrar disciplinas em um arquivo;
+struct lista_de_disciplinas
 {
-	printf("Digite o nome da disciplina que pretende cadastrar: ");
-}
+
+};
 
 int main()
 {
